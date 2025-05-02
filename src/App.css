@@ -1,0 +1,20 @@
+.input{
+  height: 30px;
+  width: 350px;
+  border: 2px solid rgb(14, 33, 206);
+  font-size: large;
+  font-style:oblique;
+  border-radius: 5px;
+
+}
+.input-div{
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+
+}
+.p-tag{
+  color: rgb(246, 40, 40);
+  font-size:medium;
+  margin: 0px !important;
+}
